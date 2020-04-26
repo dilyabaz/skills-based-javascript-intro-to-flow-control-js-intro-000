@@ -1,5 +1,5 @@
-function basicTeenager = (13, 14, 15, 16, 17, 18, 19){
-let ('You are a teenager!')
+function basicTeenager = (13> & 19>){
+  ('You are a teenager!')
 } else ('undefined')
 
 function teenager(age) {
