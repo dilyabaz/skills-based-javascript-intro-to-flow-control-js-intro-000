@@ -1,6 +1,7 @@
-function basicTeenager(age) {
-
-}
+var basicTeenager = 'age'
+function basicTeenager(13-19) {
+  ('You are a teenager!')
+} else {'undefined'}
 
 function teenager(age) {
 
