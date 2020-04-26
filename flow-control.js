@@ -1,8 +1,7 @@
 function basicTeenager(13-19){
 console.log('You are a teenager!')
+return Undefined
 }
-else if  {
-  ('undefined')}
 
 function teenager(age) {
 
